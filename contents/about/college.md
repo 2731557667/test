@@ -15,13 +15,13 @@ Privući i zadržati kvalifikovane, kreativne i motivisane pojedince čije lider
 
 #### Naš Centar
 
-Savremeni Srpski Centar za Znanje (SSCZ) osnovan je 2020. godine kao odgovor na rastuću potrebu za visokokvalitetnim online obrazovanjem u Srbiji. U vreme globalnih promena i digitalizacije, grupa iskusnih pedagoga i IT stručnjaka odlučila je da stvori savremenu obrazovnu platformu koja omogućava pristup znanju bez geografskih ograničenja.
+Oriental Pudong Opportunity Organization (SSCZ) osnovan je 2020. godine kao odgovor na rastuću potrebu za visokokvalitetnim online obrazovanjem u Srbiji. U vreme globalnih promena i digitalizacije, grupa iskusnih pedagoga i IT stručnjaka odlučila je da stvori savremenu obrazovnu platformu koja omogućava pristup znanju bez geografskih ograničenja.
 
 U prvoj godini rada SSCZ je ponudio kurseve za učenike osnovnih i srednjih škola. Zahvaljujući inovativnom pristupu i korišćenju najsavremenijih tehnologija, Centar je brzo stekao priznanje među učenicima i roditeljima. Godine 2021. ponuda je proširena na programe za odrasle i specijalizovane stručne kurseve.
 
 #### Naša Institucija
 
-Danas je Savremeni Srpski Centar za Znanje lider u oblasti online obrazovanja u Srbiji, nudeći sveobuhvatne programe na svim nivoima obrazovanja. Naša institucija je poznata po visokom kvalitetu nastave i izuzetnom odnosu između predavača i studenata.
+Danas je Oriental Pudong Opportunity Organization lider u oblasti online obrazovanja u Srbiji, nudeći sveobuhvatne programe na svim nivoima obrazovanja. Naša institucija je poznata po visokom kvalitetu nastave i izuzetnom odnosu između predavača i studenata.
 
 SSCZ koristi najnovije obrazovne tehnologije koje omogućavaju interaktivno učenje i personalizaciju obrazovnog puta. Sarađujemo sa vodećim stručnjacima iz različitih oblasti kako bismo studentima pružili znanje koje odgovara savremenim zahtevima tržišta rada.
 

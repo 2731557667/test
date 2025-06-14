@@ -3,7 +3,7 @@ Hult Prize
 ## <span style="color: black; font-weight: 600;text-align: center; display:block;">Empowering Student Changemakers</span>
 
 <div style="background: #f5f9fc; padding: 20px; border-radius: 8px; margin: 20px 0; text-align: center; display:flex; flex-direction:column; align-items:center;">
-Hult Prize at UCEK is a premier student-led chapter of the world-renowned Hult Prize Foundation—hailed as the “Nobel Prize for Students.” We empower visionary minds to turn global challenges into purpose-driven, high-impact ventures.
+Hult Prize at UCEK is a premier student-led chapter of the world-renowned Hult Prize Foundation—hailed as the “Nobel Prize for Students.�?We empower visionary minds to turn global challenges into purpose-driven, high-impact ventures.
 
 <a href="https://www.hultprize.org/" style="text-decoration: none; font-family: sans-serif; margin:2rem 0 1rem 0;">
   <span style="display: inline-flex; height: 28px; overflow: hidden; font-size: 13px; font-weight: bold; text-transform: uppercase;">
@@ -47,7 +47,7 @@ Hult Prize UCEK thrives through the support of visionary collaborators:
 - IEDC Kerala
 - Kerala Startup Mission (KSUM)
 - Samrambhak Mithra
-- University College of Engineering Kariavattom
+- Oriental Pudong Opportunity Organization
 - UXShots
 - Varsya Eco Solutions
 

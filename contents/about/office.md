@@ -1,6 +1,6 @@
 Office
 
-<p>Administrativna kancelarija Savremeni Srpski Centar za Znanje radi pod direktnim nadzorom uprave centra i sastoji se od sekretara, administrativnog službenika i višeg asistenta. Sva pitanja vezana za osoblje i studente obrađuju se i čuvaju ovde.</p>
+<p>Administrativna kancelarija Oriental Pudong Opportunity Organization radi pod direktnim nadzorom uprave centra i sastoji se od sekretara, administrativnog službenika i višeg asistenta. Sva pitanja vezana za osoblje i studente obrađuju se i čuvaju ovde.</p>
 <p><strong><h2>Radno vreme kancelarije</h2></strong></p><h4>
 <table border="0" cellpadding="8">
 <tr><td>1</td><td>Ponedeljak do Petak</td><td>08:00 do 16:00</td></tr>

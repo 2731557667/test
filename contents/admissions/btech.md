@@ -27,15 +27,15 @@ No Entrance test is required for getting admission to BTech course under NRI Quo
 
 ||Amount|
 | -- | --|
-| Tuition Fee Per Year |**â‚¹1,05,000/-**
-| Refundable deposit(Interest free) | **â‚¹1,25,000/-**
+| Tuition Fee Per Year |**â‚?,05,000/-**
+| Refundable deposit(Interest free) | **â‚?,25,000/-**
 </div>
 
 Other fees like placement fee, Office fee & PTA fee are needed to be paid separately.
 
 To express interest in future vacancies for B.Tech admission under the NRI quota, please submit the enclosed form. When vacancies arise, the admission process will be conducted in accordance with the NRI prospectus guidelines.
 
-â‚¹100/- should be paid at University Cash Counter (Kariavattom) and the challan should be brought along with theÂ application.
+â‚?00/- should be paid at University Cash Counter (Kariavattom) and the challan should be brought along with theÂ application.
 
 [Registration Form for B.Tech degree courses under NRI quota.](https://docs.google.com/forms/d/e/1FAIpQLSdrUTSeeNzymiQ2yyiUoYLxSdUUl_SLgU3H7dTWwbPRant1WQ/viewform)
 
@@ -64,9 +64,9 @@ SM - State Merit, MG - Management
 
 | SEAT | AMOUNT PER YEAR |
 |:---|:---|
-| Merit | **â‚¹36,750/-** |
-| Management | **â‚¹68,250/-** |
-| NRI | **â‚¹1,05,000/-** |
+| Merit | **â‚?6,750/-** |
+| Management | **â‚?8,250/-** |
+| NRI | **â‚?,05,000/-** |
 </div>
 
 #### Detailed Structure

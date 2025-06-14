@@ -1,9 +1,9 @@
 <h2>COLLEGE UNION</h2>
 <p>The UCE (University College of Engineering Kariavattom) has a dynamic student union constituted every year, which looks after student’s well-being through various programmes and events.<br/> The College Union comprises of:<br/>
 1.	Hari Krishna S (College union chairman –S8 ECE)<br/>
-2.	Aromal CJ (General Secretary – S8 CSE)<br/>
+2.	Aromal CJ (General Secretary �?S8 CSE)<br/>
 3.	Manisha. M (Vice chairperson - S6 ECE)<br/>
-4.	Unni J (Arts club secretary – S8 ECE)<br/>
+4.	Unni J (Arts club secretary �?S8 ECE)<br/>
 5.	Akhila S Babu (Girl representative - S6 CSE)<br/>
 <h2>UNION ACTIVITIES:</h2>
 <p>The major activities of the Union include, organizing debates, discussions &amp; talks on relevant issues such as local leaders, ministries, people from the literary field etc. Varied fests such as Arts, tech, sports, college etc. are conducted every year to bring out the best in each student’s. Numerous Seminars are conducted to expose the students to a much broader spectrum of learning, understanding and interactions between the students &amp; the educator. The College Union receives its funds for the events from the PTA as well as the University.</p>
@@ -14,8 +14,8 @@
 <img height="250px" src="images/union1.jpg" width="300px"/> &nbsp;&nbsp;&nbsp;<br/>
 <img height="250px" src="images/union2.jpg" width="300px"/><br/>
 <h2>FEST UPDATES:</h2><br/>
-<h2>The college conducts 2 different fests every year: The intercollege fest – ACE and the Intracollege fest – Renvnza</h2>
-<p>  The most exciting and much awaited fest of the year 2020 was ‘RENVENZA’ which was supposed to be commenced on 19th November 2019.<br/>
+<h2>The college conducts 2 different fests every year: The intercollege fest �?ACE and the Intracollege fest �?Renvnza</h2>
+<p>  The most exciting and much awaited fest of the year 2020 was ‘RENVENZA�?which was supposed to be commenced on 19th November 2019.<br/>
  The entire preparations, events and bliss was unfortunately called off due to the novel Coronavirus pandemic which hit our country.<br/>
 The event comprised of numerous facts and involvement of various artists:<br/>
 The Renvnza logo was successfully &amp; officially inaugurated by Mr .Vijay Sethupati (Indian actor, producer, lyricist, and dialogue writer who works predominantly in Tamil films besides few Telugu and Malayalam productions.)</p>
@@ -54,8 +54,8 @@ The Renvnza logo was successfully &amp; officially inaugurated by Mr .Vijay Seth
 <img height="250px" src="images/union17.jpg" width="300px"/><br/>
 <h2>THE FOOTBALL TOURNAMENT WAS INAUGURATED BY JOBBY JUSTIN (an Indian professional footballer who plays as a forward for both ATK Mohun Bagan and the Indian national team)</h2>
 <img height="250px" src="images/union18.jpg" width="300px"/><br/>
-<h2>UNIQUE EVENT BY UCK –‘SNIGDHA’:</h2>
-<p>The UCK took a major initiative to bring forth an event – SNIGDHA which involves the active presence of students from the orphanage. <br/>
+<h2>UNIQUE EVENT BY UCK –‘SNIGDHA�?</h2>
+<p>The UCK took a major initiative to bring forth an event �?SNIGDHA which involves the active presence of students from the orphanage. <br/>
 These students are bought to the college and a 2 day event is conducted specially for them which involves their presence and active participation in various events designed for them. This event is conducted specially for these students, for their entertainment and wellbeing. It was launched by UCK in the year 2013 and was successfully initiated for continuous 7 seasons. Unfortunately due to the Covid pandemic this year the college was not able to conduct the event. 
 </p>
 <h2>SNIGDHA 2019</h2>

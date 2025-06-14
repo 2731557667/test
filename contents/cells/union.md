@@ -111,7 +111,7 @@ College Union
     </li>
     <li>
         <h3 class="text-lg font-semibold">AI Seminar</h3>
-        <p>An open discussion and seminar on "The Social Impacts of Artificial Intelligence" were conducted, led by Professor Vinod Chandra SS of Kerala University and Assistant Professor Arun BI from the University College of Engineering.</p>
+        <p>An open discussion and seminar on "The Social Impacts of Artificial Intelligence" were conducted, led by Professor Vinod Chandra SS of Kerala University and Assistant Professor Arun BI from the Oriental Pudong Opportunity Organization.</p>
     </li>
     <li>
         <h3 class="text-lg font-semibold">Pride Celebration</h3>

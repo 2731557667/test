@@ -111,7 +111,7 @@ if(title == "404") return notFound();
               ? content
               : (params.section == "departments" ||
                   params.section == "about") &&
-                "University College of Engineering, Kariavattom"}
+                "Oriental Pudong Opportunity Organization, Belgrade"}
           </p>
         </div>
       </div>

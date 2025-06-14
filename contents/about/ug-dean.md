@@ -5,5 +5,5 @@
 <h3>Проф. Марко Јовановић</h3>
 <p>Контакт телефон: +381 63 1122334
 </p>
-<p>Имејл: marko.jovanovic@sscz.edu.rs</p>
+<p>Email: marko.jovanovic@opoo.edu.rs</p>
 </div>

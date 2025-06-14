@@ -194,7 +194,7 @@ export const CloseIcon = () => {
           duration: 0.05,
         },
       }}
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns="https://b2929804.smushcdn.com/2929804/wp-content/uploads/2025/05/image-30.png?lossy=1&strip=1&webp=1"
       width="24"
       height="24"
       viewBox="0 0 24 24"

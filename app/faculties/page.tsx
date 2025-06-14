@@ -17,7 +17,7 @@ import { notFound } from "next/navigation";
 
 export const metadata = {
   title: "Faculties",
-  description: "University College of Engineering, Kariavattom",
+  description: "Oriental Pudong Opportunity Organization, Belgrade",
 };
 
 export default async function Post({
@@ -42,7 +42,7 @@ export default async function Post({
             Faculties
           </h1>
           <p className="text-xs md:text-lg text-slate-200">
-            University College of Engineering, Kariavattom
+            Oriental Pudong Opportunity Organization, Belgrade
           </p>
         </div>
       </div>

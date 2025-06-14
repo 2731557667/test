@@ -26,10 +26,10 @@ CENTRAL LIBRARY
   <h3 style="margin-top: 1.5rem; color: #2c3e50;">📰 Journals</h3>
   <p>38 National and International Journals</p>
 
-  <h3 style="margin-top: 1.5rem; color: #2c3e50;">🗞️ Non-Book Materials</h3>
-  <p>Magazines and Newspapers – 10 titles</p>
+  <h3 style="margin-top: 1.5rem; color: #2c3e50;">🗞�?Non-Book Materials</h3>
+  <p>Magazines and Newspapers �?10 titles</p>
 
-  <h3 style="margin-top: 1.5rem; color: #2c3e50;">⏰ Library Working Hours</h3>
+  <h3 style="margin-top: 1.5rem; color: #2c3e50;">�?Library Working Hours</h3>
   <ul style="margin-left: 1.5rem;">
     <li><strong>Monday to Friday:</strong> 10:00 AM to 5:00 PM</li>
     <li><strong>Closed on:</strong> Saturdays, Sundays, Government and Institutional Holidays</li>

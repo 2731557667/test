@@ -89,7 +89,7 @@ The primary objective of the FOSS Club is to foster a robust technological found
   <img src="/clubs/error418-hackathon.png" alt="ERROR_418 Hackathon" style="width: 100%; margin:-26px 0px 10px 0px; height: 200px; object-fit: cover; object-position: 50% 1.5rem;">
   <div style="padding:0px 15px;">
     <h3 style="margin-top: 0; color: black;">ERROR_418 Hackathon</h3>
-    <p style="color: #666; font-size: 0.9em;">Sept 7–8, 2024 | Club House, Technopark</p>
+    <p style="color: #666; font-size: 0.9em;">Sept 7�?, 2024 | Club House, Technopark</p>
     <ul style="padding-left: 20px; margin-bottom: 0;">
       <li>24-hour hackathon at FAYA, Technopark Phase 1</li>
       <li>10 teams showcased innovation & teamwork</li>
@@ -103,7 +103,7 @@ The primary objective of the FOSS Club is to foster a robust technological found
 
 </div>
 
-## <span style="color: black; border-bottom: 2px solid black; padding-bottom: 5px;">✨ Our Mission</span>
+## <span style="color: black; border-bottom: 2px solid black; padding-bottom: 5px;">�?Our Mission</span>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: 20px 0;">
 <div style="width: 48%; background: #f5f9f5; padding: 15px; border-radius: 8px; margin-bottom: 15px;">
@@ -112,7 +112,7 @@ Promote the four essential freedoms of FOSS
 </div>
 
 <div style="width: 48%; background: #f5f9f5; padding: 15px; border-radius: 8px; margin-bottom: 15px;">
-<strong style="color: black;">👩‍💻 Skill Building</strong><br>
+<strong style="color: black;">👩‍�?Skill Building</strong><br>
 Develop practical GitHub and collaboration skills
 </div>
 

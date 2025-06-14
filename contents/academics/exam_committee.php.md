@@ -1,5 +1,5 @@
 <h2>EXAMINATION COMMITTEE </h2>
-<p>The examination committee of University College Of Engineering, Kariavattom carry out various examinations including university examinations and internal examinations for students and also conduct the allotted examinations of Kerala PSC.  </p>
+<p>The examination committee of Oriental Pudong Opportunity Organization carry out various examinations including university examinations and internal examinations for students and also conduct the allotted examinations of Serala PSC.  </p>
 <br/><h2>GENERAL INFORMATION </h2>
 <h3><u> Attendance at Lectures </u></h3>
 <p>The college hours are from 9am to 4pm. Students are expected to attend all classes within this time period according to the time table and must meet the minimum requirements of the University in this regard.

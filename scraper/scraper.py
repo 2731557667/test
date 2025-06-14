@@ -7,7 +7,7 @@ import time
 import logging
 from concurrent.futures import ThreadPoolExecutor
 
-BASE_URL = "https://ucek.in"
+BASE_URL = "https://opoo.edu.rs"
 OUTPUT_DIR = "contents"
 
 # File extensions to ignore

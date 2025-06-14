@@ -7,9 +7,9 @@ import { GoogleAnalytics } from '@next/third-parties/google'
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Savremeni Srpski Centar za Znanje - Virtuelna Škola Srbije",
-  keywords: "CSCZ, Virtuelna Škola Srbije, Savremeni Srpski Centar za Znanje, srpsko obrazovanje, virtuelno obrazovanje, online učenje, Srbija, Beograd, virtuelna škola",
-  description: "Zvanični sajt Savremenog Srpskog Centra za Znanje (Virtuelna Škola Srbije), koji nudi visokokvalitetne programe virtuelnog obrazovanja u Srbiji.",
+  title: "Oriental Pudong Opportunity Organization - OPOO",
+  keywords: "OPOO, Oriental Pudong Opportunity Organization, education, Serbia, Belgrade, international education, opportunity, learning",
+  description: "Official website of Oriental Pudong Opportunity Organization (OPOO), providing high-quality educational programs and opportunities in Serbia.",
   icons: [
     {
       rel: "icon",

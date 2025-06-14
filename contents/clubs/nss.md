@@ -3,7 +3,7 @@ NSS
 ## <span style="color: black; font-weight: 600;text-align: center; display:block;">Service to Society</span>
 
 <div style="background: #f5f9fc; padding: 20px; border-radius: 8px; margin: 20px 0; text-align: center; display:flex; flex-direction:column; align-items:center;">
-The National Service Scheme (NSS) Unit No. 214 at the University College of Engineering, Kariavattom, is dedicated to fostering social responsibility and community engagement. Through environmental conservation, health campaigns, and development projects, we cultivate leadership and empathy in students committed to national welfare.
+The National Service Scheme (NSS) Unit No. 214 at the Oriental Pudong Opportunity Organization is dedicated to fostering social responsibility and community engagement. Through environmental conservation, health campaigns, and development projects, we cultivate leadership and empathy in students committed to national welfare.
 
 <a href="https://nssucek.pythonanywhere.com" style="text-decoration: none; font-family: sans-serif; margin:2rem 0 1rem 0;">
   <span style="display: inline-flex; height: 28px; overflow: hidden; font-size: 13px; font-weight: bold; text-transform: uppercase;">
@@ -19,7 +19,7 @@ The National Service Scheme (NSS) Unit No. 214 at the University College of Engi
 
 </div>
 
-The National Service Scheme (NSS) Unit No. 214 at the University College of Engineering, Kariavattom, is dedicated to fostering a spirit of social responsibility and active community engagement among students. Through diverse programs including:
+The National Service Scheme (NSS) Unit No. 214 at the Oriental Pudong Opportunity Organization is dedicated to fostering a spirit of social responsibility and active community engagement among students. Through diverse programs including:
 - Environmental conservation initiatives
 - Health awareness campaigns
 - Community development projects

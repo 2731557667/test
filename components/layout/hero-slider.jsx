@@ -21,12 +21,11 @@ export function HeroSlider() {
   const [count, setCount] = useState(0);
   
   // Warsaw University of Technology image URL
-  const warsawUniversityImageUrl = "https://urk.edu.pl/m/YDHEYVjU-WSwnDHV1RwMMDl91GVU6AwRdbgNSICwWBxwrfABDPThZFxJHZRNZR0FVBCVWK2U9FVsrVRk1LSZNXUdhQGw_Mk8AEkcjLgRQXWgcOUcUIANSGW5fGSogWFhNGSEqAn89SBRsRHUjF1lTFVJuUBloTlJWI1cENCoWDgoFcU8RPzJPAGxEdT8XUFFoASgXTXtOUkE1SRVkf1gLAhY0EBF9dUsaNA11dVQVSQ/nr_1.webp";
   
   // Create 5 carousel items with different titles but the same image
   const customSlides = [
     { 
-      image: warsawUniversityImageUrl, 
+      image: "https://www.educanada.ca/programs-programmes/assets/images/banner/l2-programs-costs.png", 
       title: "Leading research type", 
       description: "A leading research university in Poland" 
     },
@@ -41,12 +40,12 @@ export function HeroSlider() {
       description: "Global Education Partnership" 
     },
     { 
-      image: "https://urk.edu.pl/m/sDHEGWDgnZwM8ASEmGlJTUhtuDwM4FxUZblQVIiwbPQYTcU8CZGYBQXlEdT8XQ1wVUm5THiYHA2ljTAAqKhsGM1hhKRwhIlofJwsLYClSWlAEJUYfFk0DWS1TFCM3WE5NEToZVnNtGhgvBSc6BWhZVgITBCh7W0IFEw9AdmsQEghVf1dfMDlfUXRKMiFUGxZUByJBBSUOHFA-G0pkNhYLCxIhVx9zI0EDK0ptbR9aVVANbhlVOQsKUG4DUiU9S1tdRytDA2F1RQ/kampus_maj_1_1920_600.webp", 
+      image: "https://www.kursor.edu.pl/wp-content/uploads/2023/12/mateuszw123._httpss.mj_.runVKKpFbwYN00_photo_of_beautiful_30_yea_59033159-c117-4c7f-8819-c9138671e9db-1.png", 
       title: "Academic excellence", 
       description: "Pursue knowledge and innovation" 
     },
     { 
-      image: "https://urk.edu.pl/m/RDHEGWDgnZwM8ASEmGlJTUhtuDwM4FxUZblQVIiwbPQYTcU8CZGUIRnlEdT8XQ1wVUm5THiYHA2ljTAAqKhsGM1hhKRwhIlofJwsLYClSWlAEJUYfFk0DWS1TFCM3WE5NEToZVnNtGhEvBjI9KUVRXBo5QRYpCBFqfgwvdHNUCB8QcVkRPTZWFGxSdSoYFRgVCyNbAzgNHFkpS1J8ZwkOBhM2BxF9dUwKPg11dVReWVYPKRdbaBEZTykbSmQmAlNWRWMNBWFnGg4/baner_rekrutacja_25_26.webp", 
+      image: "https://www.kursor.edu.pl/wp-content/uploads/2022/11/pexels-dusan-cvetanovic-12541596-scaled.jpg", 
       title: "Future technology", 
       description: "The technology that shapes tomorrow" 
     }
@@ -133,22 +132,30 @@ export function HeroSlider() {
                 src={ucekImage}
                 width={1920}
                 height={1080}
-                alt="University College of Engineering Kariavattom"
+                alt="Oriental Pudong Opportunity Organization"
                 className="h-[75vh] w-full object-cover transition-transform duration-500"
                 priority={true}
               />
               <div className="absolute inset-0 flex flex-col items-center justify-center space-y-4 bg-gradient-to-t from-black/70 to-transparent">
-                <div className="space-y-4 text-center text-white max-w-4xl px-6 animate-fadeIn">
-                  <h2 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight">
-                    {"University College of Engineering"}
+                <div className="space-y-6 text-center text-white max-w-5xl px-6 animate-fadeIn">
+                  <h2 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight">
+                    <span className="gradient-text-accent">Oriental Pudong</span>
+                    <br />
+                    <span>Opportunity Organization</span>
                   </h2>
-                  <p className="text-xl md:text-2xl font-light">Kariavattom</p>
-                  <div className="pt-4">
+                  <p className="text-xl md:text-2xl lg:text-3xl font-light text-blue-100">Belgrade, Serbia</p>
+                  <div className="pt-6 flex flex-col sm:flex-row gap-4 justify-center">
                     <Link 
                       href="/about" 
-                      className="inline-flex items-center justify-center rounded-md bg-white px-6 py-3 text-lg font-medium text-black shadow transition-colors hover:bg-blue-600 hover:text-white"
+                      className="btn-primary inline-flex items-center justify-center"
                     >
                       Learn More
+                    </Link>
+                    <Link 
+                      href="/programs" 
+                      className="btn-secondary inline-flex items-center justify-center"
+                    >
+                      Explore Programs
                     </Link>
                   </div>
                 </div>
@@ -170,15 +177,15 @@ export function HeroSlider() {
                   loading={index < 2 ? "eager" : "lazy"}
                 />
                 <div className="absolute inset-0 flex flex-col items-center justify-center space-y-4 bg-gradient-to-t from-black/70 to-transparent">
-                  <div className="space-y-4 text-center text-white max-w-4xl px-6 animate-fadeIn">
-                    <h2 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight">
-                      {slide.title}
+                  <div className="space-y-6 text-center text-white max-w-5xl px-6 animate-fadeIn">
+                    <h2 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight">
+                      <span className="gradient-text-accent">{slide.title}</span>
                     </h2>
-                    <p className="text-xl md:text-2xl font-light">{slide.description}</p>
-                    <div className="pt-4">
+                    <p className="text-xl md:text-2xl lg:text-3xl font-light text-blue-100">{slide.description}</p>
+                    <div className="pt-6">
                       <Link 
                         href="/programs" 
-                        className="inline-flex items-center justify-center rounded-md bg-white px-6 py-3 text-lg font-medium text-black shadow transition-colors hover:bg-blue-600 hover:text-white"
+                        className="btn-primary inline-flex items-center justify-center"
                       >
                         Explore Programs
                       </Link>

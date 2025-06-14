@@ -31,7 +31,7 @@ and password issued by the Campus Wi-Fi Centre.
 
 these resources and to adhere to the following guidelines:
 
-<p>â€¢ The Internet and associated resources contain a wide variety of material
+<p>â€?The Internet and associated resources contain a wide variety of material
 
 and information. Information available on the Internet is not generated
 
@@ -41,23 +41,23 @@ accuracy or quality of the information obtained through or stored on the
 
 campus network.
 
-<p>â€¢ The creation, display or transmittal of illegal, malicious or obscene
+<p>â€?The creation, display or transmittal of illegal, malicious or obscene
 
 material is prohibited.
 
-<p>â€¢ UCK will not be liable for the actions of anyone connecting to the
+<p>â€?UCK will not be liable for the actions of anyone connecting to the
 
 Internet through College facilities. All users shall assume full liability
 
 (legal, financial, or otherwise) for their actions.
 
-<p>â€¢ The user is responsible for complying with laws protecting software or
+<p>â€?The user is responsible for complying with laws protecting software or
 
 other accessed information. Downloading programs and files may
 
 violate copyright laws that protect information and software.
 
-<p>â€¢ Because of the insecure nature of transmitting files electronically, no
+<p>â€?Because of the insecure nature of transmitting files electronically, no
 
 right of privacy exists with regard to email, Internet sessions or
 

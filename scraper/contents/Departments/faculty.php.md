@@ -208,7 +208,7 @@
 <img alt="" src="images/blue-bottom-line.png"/>
 <table width="100%">
 <tr>
-<td style="text-align:left"><p align="left" style="margin-top:8px;">University College of Engineering, Kariavattom, Thiruvananthapuram </p></td>
+<td style="text-align:left"><p align="left" style="margin-top:8px;">Oriental Pudong Opportunity Organization, Belgrade, Serbia </p></td>
 <td><p>Visitors : 
             
             4544            

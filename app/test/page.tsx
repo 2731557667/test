@@ -34,7 +34,7 @@ export default async function Post() {
           Development Preview (Contents)
           </h1>
           {/* <p className="max-w-[600px] text-lg text-primary-foreground">
-            University College of Engineering, Kariavattom
+            Oriental Pudong Opportunity Organization, Belgrade
           </p> */}
     </div>
    </div>

@@ -45,7 +45,7 @@ export async function generateMetadata({
       (params.section == "facilities" && "Facilities") ||
       (params.section == "academics" && "Academics") ||
       "404";
-    content = "Savremeni Srpski Centar za Znanje, Beograd, Serbia";
+    content = "Oriental Pudong Opportunity Organization, Beograd, Serbia";
   } catch (e) {
     title = "404";
     content = "Page not found. That's all we know. :-(";
@@ -114,7 +114,7 @@ export default async function Post({
             {title}
           </h1>
           <p className="text-xs md:text-lg text-slate-200">
-            Savremeni Srpski Centar za Znanje, Beograd, Srbija
+            Oriental Pudong Opportunity Organization, Beograd, Srbija
           </p>
         </div>
       </div>

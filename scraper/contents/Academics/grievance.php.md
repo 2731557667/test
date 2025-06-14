@@ -14,36 +14,36 @@
 
 <br/>A grievance cell should be constituted for the redressal of the issues reported by the students of the University College of Engineering with the following objectives.<br/>
 
-â€¢	Encouraging the students to express their grievances/problems freely and frankly without any fear of being victimized.<br/>
+â€?Encouraging the students to express their grievances/problems freely and frankly without any fear of being victimized.<br/>
 
-â€¢	Suggestion / complaint Box is installed in front of the Administrative Block in which the students, who want to remain anonymous, put in writing their grievances and their suggestions for improving the Academics/Administration in the college.<br/>
+â€?Suggestion / complaint Box is installed in front of the Administrative Block in which the students, who want to remain anonymous, put in writing their grievances and their suggestions for improving the Academics/Administration in the college.<br/>
 
-â€¢	Advising Students of the college to respect the right and dignity of one another and show utmost restraint and patience whenever any occasion of rift arises. <br/>
+â€?Advising Students of the college to respect the right and dignity of one another and show utmost restraint and patience whenever any occasion of rift arises. <br/>
 
-â€¢	Ragging in any form is strictly prohibited in and outside the institution. Any violation of ragging and disciplinary rules should be urgently bought to the notice of the principal.<br/>
+â€?Ragging in any form is strictly prohibited in and outside the institution. Any violation of ragging and disciplinary rules should be urgently bought to the notice of the principal.<br/>
 
-â€¢	Advising all staffs to be affectionate to the students and not to behave in a vindictive manner towards any of them for any reason.<br/></p>
+â€?Advising all staffs to be affectionate to the students and not to behave in a vindictive manner towards any of them for any reason.<br/></p>
 <h2>SCOPE:</h2> <br/>
 <p>The cell will deal with Grievances received in writing from the students about any of the following matters.<br/><br/>
 
-â€¢	Academic Matters: Related to classes and Timetables, timely issue of Mark sheets, Transfer Certificates, Conduct Certificates or other examination related matters.<br/>
+â€?Academic Matters: Related to classes and Timetables, timely issue of Mark sheets, Transfer Certificates, Conduct Certificates or other examination related matters.<br/>
 
-â€¢	Other Matters: Related to certain misgivings about conditions of sanitation, canteen, classrooms, victimized by teachers if any etc.<br/></p>
+â€?Other Matters: Related to certain misgivings about conditions of sanitation, canteen, classrooms, victimized by teachers if any etc.<br/></p>
 <h2>FUNCTIONS:<br/>
 
-â€¢	<p>The cases will be attended promptly on receipt of written grievances from the students.<br/>
+â€?<p>The cases will be attended promptly on receipt of written grievances from the students.<br/>
 
-â€¢	The cell formally will review all cases and will act accordingly as per the policy of the college.<br/>
+â€?The cell formally will review all cases and will act accordingly as per the policy of the college.<br/>
 
-â€¢	The cell will give report to the authority about the cases attended to and the number of pending cases, if any, which require direction and guidance from the higher authorities.<br/>
+â€?The cell will give report to the authority about the cases attended to and the number of pending cases, if any, which require direction and guidance from the higher authorities.<br/>
 <h2>LINK FOR LODGING COMPLAINT:</h2><br/>
 
-â€¢	  <a href="https://forms.gle/KVScs54haaNDgDN7A"><font color="red" size="4">Click here to complain </font></a> <br/><br/><br/>
+â€?  <a href="https://forms.gle/KVScs54haaNDgDN7A"><font color="red" size="4">Click here to complain </font></a> <br/><br/><br/>
 </p></h2></div>
 <img alt="" src="images/blue-bottom-line.png"/>
 <table width="100%">
 <tr>
-<td style="text-align:left"><p align="left" style="margin-top:8px;">University College of Engineering, Kariavattom, Thiruvananthapuram </p></td>
+<td style="text-align:left"><p align="left" style="margin-top:8px;">Oriental Pudong Opportunity Organization, Belgrade, Serbia </p></td>
 <td><p>Visitors : 
             
             4544            

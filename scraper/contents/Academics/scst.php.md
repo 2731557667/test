@@ -4,12 +4,12 @@
 <h2>Objectives </h2>
 <p>
 
-‚óè	To counsel and guide SC/ ST students and help them to manage academic and personal issues of college life effectively.  <br/>
-‚óè	To ensure provisions of an environment where all such students feel safe and secure.  <br/>
-‚óè	To provide the mechanism to redress the grievance of SC/ST students, if any <br/>
-‚óè	To ensure protection and reservation as provided in the constitution of India. <br/>
-‚óè	To arrange for special opportunities to enhance career growth . <br/>
-‚óè	To take such follow up measures to achieve the objectives and targets laid down by the Govt. of India and the UGC. <br/>
+‚ó?To counsel and guide SC/ ST students and help them to manage academic and personal issues of college life effectively.  <br/>
+‚ó?To ensure provisions of an environment where all such students feel safe and secure.  <br/>
+‚ó?To provide the mechanism to redress the grievance of SC/ST students, if any <br/>
+‚ó?To ensure protection and reservation as provided in the constitution of India. <br/>
+‚ó?To arrange for special opportunities to enhance career growth . <br/>
+‚ó?To take such follow up measures to achieve the objectives and targets laid down by the Govt. of India and the UGC. <br/>
 <h2>Activities</h2>
 <p>
 1.	  To circulate State Govt.and UGC‚Äôs decisions about different scholarship programs. <br/>

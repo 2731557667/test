@@ -26,7 +26,7 @@
 <br/>
 <h4><u>Objectives:</u></h4>
 <p>1. Members as an artist will understand their role in creativity and cultural industries.</p>
-<p>2. Evaluating and appreciating membersâ€™ effort through different competitions.</p>
+<p>2. Evaluating and appreciating membersâ€?effort through different competitions.</p>
 <p>3. Promote and support art enthusiasts to propagate and contribute to special activities.</p>
 <br/>
 <p>Art &amp; Crafts club mainly organizes an exhibition at Main building where the team displays its art collection like Oil painting,  Acrylic painting, Water Colour painting , Poster Colour painting, Digital Art, Classroom art, Pencil Sketching, Oil pastels, Pen/ink art, Pencil color shading, Glass painting, Fabric painting, Embroidery, Pot designs, Best out of Waste (Junk Art) The team shows its innovation, creativity and hard work through exhibitions in odd semester and an annual gathering in even semester.  The club organizes its inauguration at the start of every semester for freshers or new aspirants to join..

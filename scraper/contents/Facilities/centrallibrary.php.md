@@ -14,17 +14,17 @@ non-printed, primary and secondary materials that will support the educational, 
 public service programmes of both students and faculty. </p>
 <br/>
 <p>The College Library consists of the following sections </p>
-<p>â€¢	Book lending section </p>
+<p>â€?Book lending section </p>
 <p>After becoming the member, each student can borrow 3 books at a time and can retain the
 books for a period of 30 days; the books have to be returned /renewed before the due
 date. Teaching fraternity can borrow 08 books at a time. </p>
-<p>â€¢	Reference section</p>
+<p>â€?Reference section</p>
 <p>A large number of Encyclopedias, Handbooks, Dictionaries, books to prepare for
 competitive examinations like GATE and GRE are also stocked and other reference aids
 are available in the Library</p>
-<p>â€¢	Current periodicals section </p>
-<p>â€¢	Reading room </p>
-<p>â€¢	Internet facility </p>
+<p>â€?Current periodicals section </p>
+<p>â€?Reading room </p>
+<p>â€?Internet facility </p>
 <p>E-Library offers free high speed internet facility to the user to access the online resources
 subscribed, the access to this section restricted by the login.</p>
 <br/><h4>Books</h4>

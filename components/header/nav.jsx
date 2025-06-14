@@ -88,12 +88,12 @@ const Nav = () => {
             width={85}
             height={85}
             src={Logo.src}
-            alt="Savremeni Srpski Centar za Znanje Logo"
+            alt="Oriental Pudong Opportunity Organization Logo"
             className="h-[50px] w-[50px] md:h-[85px] md:w-[85px] text-black prevent-select"
           />
           <div>
             <h1 className="text-lg font-bold text-[17.99px] md:text-[27px]">
-              Savremeni Srpski Centar za Znanje
+              Oriental Pudong Opportunity Organization
             </h1>
             <p className="text-sm text-[12px] md:text-[14px]">
               Beograd, Srbija

@@ -3,21 +3,21 @@ COLLEGE BUS
 
   <div style="font-size: 15px;">
     <p>
-      The College Transport Division at UCEK ensures safe and convenient commuting for students and staff through two well-maintained buses that cover key areas across Thiruvananthapuram city. Students can avail College bus facility by taking passes for one month. Occasional users may travel by purchasing a â‚¹15 ticket per ride. Operated under the supervision of college authorities, the transport service guarantees punctuality and reliability, and the buses are also available for special purpose for students and staff.
+      The College Transport Division at UCEK ensures safe and convenient commuting for students and staff through two well-maintained buses that cover key areas across Thiruvananthapuram city. Students can avail College bus facility by taking passes for one month. Occasional users may travel by purchasing a â‚?5 ticket per ride. Operated under the supervision of college authorities, the transport service guarantees punctuality and reliability, and the buses are also available for special purpose for students and staff.
       </p>
   </div>
 
   <h3 style="margin-top: 1.5rem; color: #2c3e50; font-size: 18px;">Bus Routes</h3>
   <ul style="margin-left: 1.5rem; font-size: 15px;">
-    <li><strong>Route A:</strong> Eastfort â€“ Attakulangara â€“ Killipalam â€“ Karamana â€“ Poojapura â€“ Jagathy â€“ Vazhuthacaud â€“ Panavila â€“ Thampanoor â€“ S.H.C â€“ P.M.S â€“ Pattom â€“ Kesavadasapuram â€“ Ulloor â€“ Kariavattom â€“ UCEK</li>
-    <li><strong>Route B:</strong> Vellayambalam â€“ Vattiyoorkavu â€“ Mannamoola â€“ Peroorkada â€“ Kowdiar â€“ Palayam â€“ General Hospital â€“ Patoor â€“ Pettah â€“ Chakkai â€“ Infosys â€“ Technopark â€“ Kazhakuttam â€“ Kariavattom â€“ UCEK</li>
+    <li><strong>Route A:</strong> Eastfort â€?Attakulangara â€?Killipalam â€?Karamana â€?Poojapura â€?Jagathy â€?Vazhuthacaud â€?Panavila â€?Thampanoor â€?S.H.C â€?P.M.S â€?Pattom â€?Kesavadasapuram â€?Ulloor â€?Kariavattom â€?UCEK</li>
+    <li><strong>Route B:</strong> Vellayambalam â€?Vattiyoorkavu â€?Mannamoola â€?Peroorkada â€?Kowdiar â€?Palayam â€?General Hospital â€?Patoor â€?Pettah â€?Chakkai â€?Infosys â€?Technopark â€?Kazhakuttam â€?Kariavattom â€?UCEK</li>
   </ul>
 
   <h3 style="margin-top: 1.5rem; color: #2c3e50; font-size: 18px;">Guidelines</h3>
   <ul style="margin-left: 1.5rem; font-size: 15px;">
     <li>Monthly bus passes are mandatory for regular commuters.</li>
     <li>Bus passes are issued at the college office on submitting the required form and photo.</li>
-    <li>Occasional users can purchase single-journey tickets at â‚¹15.</li>
+    <li>Occasional users can purchase single-journey tickets at â‚?5.</li>
     <li>Buses are coordinated and monitored by college staff for smooth operation.</li>
     <li>Special trips can be arranged for staff and students for events and industrial visits.</li>
   </ul>

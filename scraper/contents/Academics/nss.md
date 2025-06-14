@@ -59,7 +59,7 @@ Our unit received Best Unit, Best Programme Officer &amp; Best Volunteer awards 
 
 
 </p>
-<p> Community service rendered by the  unit has taken several dimensions like adoption of villages for intensive development work, carrying out the medico-social service, setting up of medical camps, programs for mass awareness, sanitation drives, adult eduction programs for weaker sections of the community, blood donation camps, helping patients in the hospitals, helping inmates at orphanages and the physically challenged. The unit has also generously involved in fund raising programmes during various natural calamities and disasters. Other major activities are, HOME FOR HOMELESS’ (for providing shelter to poor community), ‘PUNARJJANI’ (repairing &amp; cleaning the old hospital equipments and furniture) etc.
+<p> Community service rendered by the  unit has taken several dimensions like adoption of villages for intensive development work, carrying out the medico-social service, setting up of medical camps, programs for mass awareness, sanitation drives, adult eduction programs for weaker sections of the community, blood donation camps, helping patients in the hospitals, helping inmates at orphanages and the physically challenged. The unit has also generously involved in fund raising programmes during various natural calamities and disasters. Other major activities are, HOME FOR HOMELESS�?(for providing shelter to poor community), ‘PUNARJJANI�?(repairing &amp; cleaning the old hospital equipments and furniture) etc.
 
 </p></h4></font>
 </div>

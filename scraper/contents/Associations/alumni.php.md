@@ -28,38 +28,38 @@ The association extends support and financial aid to placement activities and pe
 <p>Secretary-Sangeetha S Nair, AP in IT</p>
 <p>Several programs were arranged with the support of Alumni, during the year 2019, which benefitted both faculties and students </p><p>The general body meeting was followed by a get-together and lunch.Mr.Arun B I(Assistant Professor in IT)propose the vote of Thanks. The meeting concluded at 2.30 PM.</p>
 <p><strong><u>ALUMNI AWARDS OF 2019</u></strong></p><p>
-<b>‚Ä¢	Highest total aggregate score amongst his/her batch mates in the Kerala University Exam for academic excellence.</b></p>
+<b>‚Ä?Highest total aggregate score amongst his/her batch mates in the Kerala University Exam for academic excellence.</b></p>
 <p>o	Niranjana Mohan C.S from IT Department</p>
 <p>o	Sarah Anna Johns from CS Department</p>
 <p>o	Aswan J Nair from EC Department</p>
-<p><b>‚Ä¢	Secured first position in Hackathon 2018 by FINASTRA,Technopark.</b></p>
+<p><b>‚Ä?Secured first position in Hackathon 2018 by FINASTRA,Technopark.</b></p>
 <p>o	U.S. AnanthaKrishnan.</p>
 <p>o	Azhar Sham</p>
 <p>o	Adarsh Ratna J.S.</p>
 <p>o	Vignesh Gopan</p>
-<p><b>‚Ä¢	Secured first runner up position in DLT Hackathon organized by BABEL COVER DIGITAL INSURANCE.</b></p>
+<p><b>‚Ä?Secured first runner up position in DLT Hackathon organized by BABEL COVER DIGITAL INSURANCE.</b></p>
 <p>o	U.S AnanthaKrishnan</p>
 <p>o	Azhar Sham</p>
 <p>o	Gokul Krishna P.S</p>
 <p>o	Sooraj Krishna J.K</p>
-<p><b>‚Ä¢	Secured first and second price in ‚ÄòMAZE RUNNING‚Äô Competition organized by Rajadhani Institute of Engineering and Technology as part of their tech fest.</b></p>
+<p><b>‚Ä?Secured first and second price in ‚ÄòMAZE RUNNING‚Ä?Competition organized by Rajadhani Institute of Engineering and Technology as part of their tech fest.</b></p>
 <p>o	Govind S</p>
 <p>o	Abhishek Suresh.</p>
-<p><b>‚Ä¢	Secured 2nd place at Hackaholic,theHackathon organized by NIT, Kozhikode.</b></p>
+<p><b>‚Ä?Secured 2nd place at Hackaholic,theHackathon organized by NIT, Kozhikode.</b></p>
 <p>o	Govind S.</p>
 <p>o	Harisankar</p>
-<p><b>‚Ä¢	Secured 2nd position in Hackathon organized by N.S.S College, Palakkad as part of DYUKSHA ‚Äô18.</b></p>
+<p><b>‚Ä?Secured 2nd position in Hackathon organized by N.S.S College, Palakkad as part of DYUKSHA ‚Ä?8.</b></p>
 <p>o	Govind S.</p>
 <p>o	Hiran M.</p>
-<p><b>‚Ä¢	Won the first price in the event ‚ÄúGoogler‚Äù Organized by Rajadhani Institute of Engineering and Technology</b></p>
+<p><b>‚Ä?Won the first price in the event ‚ÄúGoogler‚Ä?Organized by Rajadhani Institute of Engineering and Technology</b></p>
 <p>o	Harisankar</p>
-<p><b>‚Ä¢	Won first prize in Hackathon event on the topic ‚Äòreduction of crime rates in slum areas‚Äù organized by Rajadhani Institute of Engineering and Technology.</b></p>
+<p><b>‚Ä?Won first prize in Hackathon event on the topic ‚Äòreduction of crime rates in slum areas‚Ä?organized by Rajadhani Institute of Engineering and Technology.</b></p>
 <p>o	Amal Muhammed A.S.</p>
 <p>o	Binoy C .Darwin</p>
 <p>o	Dheebak.K</p>
 <p>o	Rishikesh P.Vijay</p>
 <p>o	Shajahan U.P</p>
-<p><b>‚Ä¢	Won first prize in the competition on E-skills and B plan organized by IEDC and Kerala startup mission held at Mohandas College of Engineering and Technology.</b></p>
+<p><b>‚Ä?Won first prize in the competition on E-skills and B plan organized by IEDC and Kerala startup mission held at Mohandas College of Engineering and Technology.</b></p>
 <p>o	Alma.K.S</p>
 <p>o	Aswathy A.S.</p>
 <p>o	Fidha Abdul Kader</p>
@@ -67,7 +67,7 @@ The association extends support and financial aid to placement activities and pe
 <p>o	Aiswarya B.R</p>
 <p>o	Hiba Muhammed</p>
 <p>o	Huda Muhammed</p>
-<p><b>‚Ä¢	Secured first runner up positions in HACKATHON‚Äô 18 organized by FINASTRA,Technopark.</b></p>
+<p><b>‚Ä?Secured first runner up positions in HACKATHON‚Ä?18 organized by FINASTRA,Technopark.</b></p>
 <p>o	Amal Muhammed A.S</p>
 <p>o	Anjoom Sahil</p>
 <p>o	Binoy  C.Darwin</p>

@@ -1,5 +1,5 @@
 <h2>Kontakt</h2>
-<h3>Savremeni Srpski Centar za Znanje</h3>
+<h3>Oriental Pudong Opportunity Organization</h3>
 <p style="text-indent:0px; line-height:22px; margin-top:5px;">
     Glavna zgrada<br/>
     Bulevar kralja Aleksandra 73<br/>
